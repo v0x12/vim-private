@@ -1,5 +1,4 @@
-# kickstart.nvim
-
+# Norbert Custom Kickstart Nvim config
 ## Introduction
 
 A starting point for Neovim that is:
